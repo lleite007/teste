@@ -1,3 +1,3 @@
 # Projeto ABC
 # Função: Desenvolvedor
-# Impacta: Aluno
+# Impacta: Lucas
